@@ -1719,7 +1719,7 @@
 		(descr "Arduino Nano, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf")
 		(tags "Arduino Nano")
 		(property "Reference" "A1"
-			(at 7.62 -5.08 0)
+			(at -0.37 -5.58 0)
 			(layer "F.SilkS")
 			(uuid "23562f7d-25bc-4248-b3ed-6f45fa345ac1")
 			(effects
@@ -4447,6 +4447,39 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "894965ad-bcea-43a9-8153-b5483f986876")
+	)
+	(gr_circle
+		(center 84.41 153.2)
+		(end 85.61 154.1)
+		(stroke
+			(width 0.0381)
+			(type default)
+		)
+		(fill none)
+		(layer "Edge.Cuts")
+		(uuid "b90c7f10-e830-4d1d-8920-aec1adfb4b5f")
+	)
+	(gr_circle
+		(center 105.73 113.2)
+		(end 107.23 113.2)
+		(stroke
+			(width 0.0381)
+			(type default)
+		)
+		(fill none)
+		(layer "Edge.Cuts")
+		(uuid "c23f817b-e9ee-4874-aff0-e22bcfbf281c")
+	)
+	(gr_circle
+		(center 129.41 153.2)
+		(end 130.61 154.1)
+		(stroke
+			(width 0.0381)
+			(type default)
+		)
+		(fill none)
+		(layer "Edge.Cuts")
+		(uuid "c9af21cb-10f7-4f99-8637-1cb851407071")
 	)
 	(via
 		(at 120.6 83.7)
