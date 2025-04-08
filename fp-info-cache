@@ -1,4 +1,4 @@
-24746158533937467
+24751390746943495
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -66177,6 +66177,13 @@ module pcb
 0
 7
 7
+Module
+Untitled
+
+
+0
+30
+30
 Motors
 Vybronics_VZ30C1T8219732L
 Vibration motor, 2.3-3.2V, 14000rpm, 0.7G, https://www.vybronics.com/wp-content/uploads/datasheet-files/Vybronics-VZ30C1T8219732L-datasheet.pdf
@@ -99519,6 +99526,13 @@ Accelerometer
 16
 8
 brainfreeze
+ESC CON
+
+PPTC031LFBN-RC 
+0
+3
+3
+brainfreeze
 IMAGE
 
 
@@ -99532,6 +99546,13 @@ DMN63D8L-7
 0
 3
 3
+brainfreeze
+NANO_FIT
+
+
+0
+30
+30
 brainfreeze
 OST_OSTTE020104
 
