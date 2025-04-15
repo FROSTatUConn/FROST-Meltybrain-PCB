@@ -6789,6 +6789,19 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "Brainfreeze Controller Board\nVersion 2.0"
+		(at 220.5 94 90)
+		(layer "F.SilkS")
+		(uuid "34f06f6c-b56e-4960-8583-df1c61ea990c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "GND\n"
 		(at 219.9 107.4 90)
 		(layer "F.SilkS")
