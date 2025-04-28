@@ -7166,8 +7166,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "DESIGNED BY: Nathaniel Wheeler, Kamran Isfahani AND Pedro Coelho \nFOR UCONN FROST ROBOTICS\n\n"
-		(at 216.5 154.5 0)
+	(gr_text "DESIGNED BY: Nathaniel Wheeler, Kamran Isfahani,\nPedro Coelho, AND Louis Spencer \nFOR UCONN FROST ROBOTICS\n\n"
+		(at 211.5 155.5 0)
 		(layer "B.SilkS")
 		(uuid "a95f5c9f-11be-456a-8296-9564c461efd4")
 		(effects
